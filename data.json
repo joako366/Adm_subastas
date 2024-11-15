@@ -1,0 +1,33 @@
+{
+  "subastas": [
+    {
+      "id": 2,
+      "titulo": "Subasta de un mueble",
+      "descripcion": "Mueble en estado deprorable, 1.50al x 1.20an",
+      "precio_inicial": 500,
+      "fecha_inicio": "2024-10-16",
+      "fecha_fin": "2024-10-26",
+      "estado": "Abierto",
+      "ofertas": [
+        {
+          "oferta": 123000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Subasta de una katana japonesa",
+      "descripcion": "Katana en estado excelente",
+      "precio_inicial": 2500,
+      "fecha_inicio": "2024-10-17",
+      "fecha_fin": "2024-10-27",
+      "estado": "Cerrado",
+      "ofertas": [
+        {},
+        {
+          "oferta": 10000
+        }
+      ]
+    }
+  ]
+}

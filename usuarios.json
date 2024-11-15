@@ -1,0 +1,14 @@
+{
+  "lista": [
+    {
+      "nombre": "carlos",
+      "id": 2,
+      "categoria": "vendedores"
+    },
+    {
+      "id": 3,
+      "nombre": "Cristhian",
+      "categoria": "administradores"
+    }
+  ]
+}
